@@ -2,6 +2,8 @@
 
 Welcome to our **Class Collaboration Project**! In this project, we will practice using GitHub to work together, learn about branching, and create pull requests. This README serves as our shared document.
 
+![Alt text](https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200)
+
 ---
 
 ## ✨ About This Project
@@ -11,6 +13,8 @@ This is a collaborative space where students will:
 - Create their own branch.
 - Edit the README file to add a personal introduction.
 - Submit a pull request to merge their changes.
+
+[![OMGOSHSOCUTE 😂 #cat #cute #short #shorts #shortvideo #shortvideos #funny #funnycats #kitten #kitty](https://img.youtube.com/vi/skGwEXU-kRU/0.jpg)](https://www.youtube.com/watch?v=skGwEXU-kRU)
 
 ---
 
